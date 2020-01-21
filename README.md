@@ -94,3 +94,7 @@ Aquí tendremos dos inputs que representen el nombre y el precio por unidad del 
 - Deberías ser capaz de calcular el precio total del producto
 - Se debería actualizar el valor total del carrito con el precio total del producto añadido
 - El producto debería poder borrarse
+
+## URL
+
+Ejercicio publicado en formato web [aquí](https://naranjito72.github.io/botones-compra/)
